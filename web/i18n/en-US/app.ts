@@ -28,9 +28,9 @@ const translation = {
     'Deleting the app is irreversible. Users will no longer be able to access your app, and all prompt configurations and logs will be permanently deleted.',
   appDeleted: 'App deleted',
   appDeleteFailed: 'Failed to delete app',
-  join: 'Join the community',
+  join: 'Experience EVO.click in action',
   communityIntro:
-    'Discuss with team members, contributors and developers on different channels.',
+    'Join conversations with our team, developers, and other users to explore how EVO.click boosts your sites performance.',
   roadmap: 'See our roadmap',
   newApp: {
     learnMore: 'Learn more',
